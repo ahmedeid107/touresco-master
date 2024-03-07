@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a1a894b3-37c7-4726-a1d7-d692cbab3ad1" name="Changes" comment="aaa">
+      <change afterPath="$PROJECT_DIR$/android/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/models/countryId.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.flutter-plugins" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/touresco_android.iml" beforeDir="false" afterPath="$PROJECT_DIR$/android/touresco_android.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Interfaces/i_meta_data.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Interfaces/i_meta_data.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Interfaces/i_trips.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Interfaces/i_trips.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/components/sliver_app_bar_main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/components/sliver_app_bar_main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/components/trip_item_default.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/components/trip_item_default.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/l10n/app_ar.arb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/l10n/app_ar.arb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/l10n/app_en.arb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/l10n/app_en.arb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/models/archive_model.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/models/archive_model.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/models/light_trip_model.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/models/light_trip_model.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/models/single_finance_trip_model.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/models/single_finance_trip_model.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/models/trip_details_model.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/models/trip_details_model.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/providers/view_models/transfer_trip_dialog_view_model.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/providers/view_models/transfer_trip_dialog_view_model.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/providers/view_models/trip_details_view_model.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/providers/view_models/trip_details_view_model.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/archive/components/archive_body.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/archive/components/archive_body.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/archive/components/archived_trips_list.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/archive/components/archived_trips_list.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/archive/components/total_archive_chart.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/archive/components/total_archive_chart.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/chat/components/chat_list.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/chat/components/chat_list.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/dashboard_notfications/dashboardNotifications.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/dashboard_notfications/dashboardNotifications.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/dashbord/dashbord.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/dashbord/dashbord.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/finance_details/components/finance_trip_list.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/finance_details/components/finance_trip_list.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/main_nav/main_nav.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/main_nav/main_nav.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/main_nav/notification/notification_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/main_nav/notification/notification_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/main_nav/transferred_trips_nav/components/transferred_trips_body.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/main_nav/transferred_trips_nav/components/transferred_trips_body.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/main_nav/transferred_trips_nav/components/transferred_trips_list.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/main_nav/transferred_trips_nav/components/transferred_trips_list.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/new_trip/NewTripScreen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/new_trip/NewTripScreen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/sheets/transfer_trip_dialog.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/sheets/transfer_trip_dialog.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/take_role/take_role_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/take_role/take_role_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/trip_details/components/trip_details_body.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/trip_details/components/trip_details_body.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/trip_details/components/trip_expenses.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/trip_details/components/trip_expenses.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/trip_details/components/trip_general_information.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/trip_details/components/trip_general_information.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/trip_details/components/trip_status.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/trip_details/components/trip_status.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/trip_details/trip_details_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/trip_details/trip_details_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/trip_trasfer/trip_transfer_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/trip_trasfer/trip_transfer_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/services/meta_data_service.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/services/meta_data_service.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/services/sql_chat_service.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/services/sql_chat_service.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/services/sql_expenses_service.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/services/sql_expenses_service.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/services/sql_trips_service.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/services/sql_trips_service.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/utils/FCM_SERVICE.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/utils/FCM_SERVICE.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/README.md" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/lib/main.dart" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/lib/providers/auth_provider.dart" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/lib/utils/constants.dart" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/lib/utils/providers.dart" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/lib/utils/routes.dart" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/lib/utils/screen_config.dart" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/lib/wrapper.dart" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/pubspec.yaml" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Id1QWKrrsA3Dzwn4hLDQoZjUNI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;PROJECT_TRUSTED_KEY&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;ScreenRecorder.SavePath&quot;: &quot;C:\\Users\\MSI\\OneDrive\\Desktop\\device-2023-07-02-023727.mp4&quot;,
+    &quot;ScreenshotViewer.SavePath&quot;: &quot;C:/Users/MSI/OneDrive/Desktop&quot;,
+    &quot;ToolWindowRun.ShowToolbar&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;com.google.services.firebase.aqiPopupShown&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;io.flutter.reload.alreadyRun&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/MSI/AndroidStudioProjects/touresco/touresco&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;module&quot;,
+      &quot;directory&quot;,
+      &quot;repository&quot;
+    ],
+    &quot;com.android.tools.idea.sqlite.queryhistory&quot;: [
+      &quot;SELECT MAX(id) , groupId  FROM Messages GROUP BY groupId ORDER BY id DESC&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\MSI\AndroidStudioProjects\touresco\touresco\assets\images" />
+      <recent name="C:\Users\abed\StudioProjects\touresco\touresco\lib" />
+      <recent name="C:\Users\abed\StudioProjects\touresco\touresco\lib\screens" />
+      <recent name="C:\Users\abed\StudioProjects\touresco\touresco\android\app\src\main\res\drawable-v21" />
+      <recent name="C:\Users\abed\StudioProjects\touresco\touresco\android\app\src\main\res\drawable" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\abed\StudioProjects\touresco\touresco\assets\images" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\MSI\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1a894b3-37c7-4726-a1d7-d692cbab3ad1" name="Changes" comment="" />
+      <created>1670496630621</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670496630621</updated>
+    </task>
+    <task id="LOCAL-00001" summary="aaa">
+      <created>1681751544359</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681751544359</updated>
+    </task>
+    <task id="LOCAL-00002" summary="aaa">
+      <created>1688049283118</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1688049283118</updated>
+    </task>
+    <task id="LOCAL-00003" summary="aaa">
+      <created>1688226125273</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1688226125273</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="aaa" />
+    <option name="LAST_COMMIT_MESSAGE" value="aaa" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/utils/FCM_SERVICE.dart</url>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/screens/trip_trasfer/trip_transfer_screen.dart</url>
+          <line>824</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/screens/sheets/create_group_dialog.dart</url>
+          <line>276</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/services/meta_data_service.dart</url>
+          <line>33</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/screens/groups/groups_screen.dart</url>
+          <line>40</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

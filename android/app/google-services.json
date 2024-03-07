@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "773332531863",
+    "project_id": "tourescoapp",
+    "storage_bucket": "tourescoapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773332531863:android:7c9c7b5b9d78b6871147d2",
+        "android_client_info": {
+          "package_name": "com.touresco.tourescoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773332531863-mhsmu16fujsjal60od3q7584r0ectd8o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8efyWFs261ysbJE0qcRZbFBui83-i2fQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773332531863-mhsmu16fujsjal60od3q7584r0ectd8o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "773332531863-6bb5s8pu4f2u0c4avo5hkt5kupq72tt7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "sd.sd.sd"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
